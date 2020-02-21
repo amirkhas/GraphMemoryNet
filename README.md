@@ -1,5 +1,10 @@
 # GraphMemoryNet
 Memory-Based Graph Networks
+
+This work introduces an efficient memory layer to jointly learn representations and coarsen the input graphs.
+
+It is accepted at ICLR 2020.
+
 [https://openreview.net/forum?id=r1laNeBYPB](https://openreview.net/forum?id=r1laNeBYPB)
 
 ![](img/mgn.png)
