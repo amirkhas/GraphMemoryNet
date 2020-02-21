@@ -7,7 +7,10 @@ It is accepted at ICLR 2020.
 
 [https://openreview.net/forum?id=r1laNeBYPB](https://openreview.net/forum?id=r1laNeBYPB)
 
+
+
 ![](img/mgn.png)
+
 
 ## Reference
 
