@@ -2,7 +2,7 @@
 Memory-Based Graph Networks
 [https://openreview.net/forum?id=r1laNeBYPB](https://openreview.net/forum?id=r1laNeBYPB)
 
-![](http://www.mediafire.com/view/x0z8u7ssxsaednz/mgn.png/file)
+![](http://www.mediafire.com/view/x0z8u7ssxsaednz/mgn.png)
 
 
 ## Reference
