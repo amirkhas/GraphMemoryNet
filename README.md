@@ -4,7 +4,6 @@ Memory-Based Graph Networks
 
 ![](img/mgn.png)
 
-
 ## Reference
 
 ```
