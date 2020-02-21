@@ -1,5 +1,4 @@
-# GraphMemoryNet
-Memory-Based Graph Networks
+# Memory-Based Graph Networks (MGN)
 
 This work introduces an efficient memory layer to jointly learn representations and coarsen the input graphs.
 
